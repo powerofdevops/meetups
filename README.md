@@ -18,6 +18,7 @@ Datum      | Titel
 01.10.2020 | [Azure DevOps Q&A: Boards & Backlogs - Von Epics, Features und Backlog Items][M01.10.2020]
 22.10.2020 | [Azure DevOps Q&A: Release Notes generieren, aber wie?][M22.10.2020]
 19.11.2020 | [Azure DevOps Q&A: Neues in Azure DevOps Server 2020][M19.11.2020]
+10.12.2020 | [Azure DevOps Q&A: Prozesse anpassen mit dem Vererbungs-Modell][M10.12.2020]
 
 [M20.08.2020]: https://youtu.be/KIwsokDk6zE 
 [M03.09.2020]: https://youtu.be/bojwO76xSQM 
@@ -25,3 +26,4 @@ Datum      | Titel
 [M01.10.2020]: https://youtu.be/xAuFeCdgYs0 
 [M22.10.2020]: https://youtu.be/IKFg617M6GU
 [M19.11.2020]: https://youtu.be/k3Y2I1_ux2A
+[M10.12.2020]: https://youtu.be/Ft_mO-Ws1BA
