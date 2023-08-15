@@ -26,6 +26,7 @@ Datum      | Titel
 04.04.2023 | Azure DevOps Q&A: April Meetup 2023
 16.05.2023 | Azure DevOps Q&A: Mai 2023 Treffen
 20.06.2023 | Azure DevOps Q&A: Juni 2023 Treffen
+15.08.2023 | Azure DevOps Q&A: August  2023 Treffen
 
 [M20.08.2020]: https://youtu.be/KIwsokDk6zE 
 [M03.09.2020]: https://youtu.be/bojwO76xSQM 
@@ -41,3 +42,4 @@ Datum      | Titel
 [M04.04.2023]: --
 [M16.05.2023]: --
 [M20.06.2023]: --
+[M15.08.2023]: --
