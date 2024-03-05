@@ -29,6 +29,7 @@ Datum      | Titel
 15.08.2023 | Azure DevOps Q&A: August 2023 Treffen
 19.09.2023 | Azure DevOps Q&A: GitHub Advanced Security (September 2023 Treffen)
 24.10.2023 | Azure DevOps Q&A: Secrets in der Pipeline (Oktober 2023 Treffen)
+05.03.2024 | Azure DevOps Q&A: Universal Packages (März 2024 Treffen)
 
 [M20.08.2020]: https://youtu.be/KIwsokDk6zE 
 [M03.09.2020]: https://youtu.be/bojwO76xSQM 
@@ -47,3 +48,4 @@ Datum      | Titel
 [M15.08.2023]: --
 [M19.09.2023]: --
 [M24.10.2023]: --
+[M05.03.2024]: --
